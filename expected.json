@@ -1,0 +1,7 @@
+[{
+	"expectedNewDescription": "New order made.",
+	"expectedNewCostInCents": 5,
+	"expectedDescription": "Update values for this order.",
+	"expectedCostInCents": 10,
+	"expected": "http://localhost:8080/order/"
+}]
